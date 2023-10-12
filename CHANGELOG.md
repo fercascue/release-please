@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/fercascue/release-please/compare/v1.0.0...v1.0.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* update main content ([1220669](https://github.com/fercascue/release-please/commit/12206697efe24af3fa6a7ed7aaedd7ddd30f92b6))
+
 ## 1.0.0 (2023-10-12)
 
 
