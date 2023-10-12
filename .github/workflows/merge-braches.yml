@@ -1,7 +1,7 @@
 name: PRs to main
 on: 
   pull_request:
-    branches: [main]
+    branches: [release-please--branches--main--components--my-app]
     types: [closed]
 jobs:
   merge-main-back-to-dev:

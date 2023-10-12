@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload later or in the future.
-          Adding a breaking change
+          Adding a breaking change 2
         </p>
         <a
           className="App-link"
