@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/fercascue/release-please/compare/v1.0.2...v2.0.0) (2023-10-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove draft for architecture documentation
+
+### Features
+
+* remove draft for architecture documentation ([ff8e59b](https://github.com/fercascue/release-please/commit/ff8e59b376bad8994175488b5df0e61b1c0a0c1b))
+
+
+### Bug Fixes
+
+* new major version ([9c5008c](https://github.com/fercascue/release-please/commit/9c5008c003a8e497fe6b447e323a0e78c2b50fe8))
+
 ## [1.0.2](https://github.com/fercascue/release-please/compare/v1.0.1...v1.0.2) (2023-10-12)
 
 
