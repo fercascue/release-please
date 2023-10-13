@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/fercascue/release-please/compare/v3.2.0...v3.2.1) (2023-10-13)
+
+
+### Bug Fixes
+
+* sample ([67689ff](https://github.com/fercascue/release-please/commit/67689ffb0808d47c26196f055c3e1fefd0eab25d))
+
 ## [3.2.0](https://github.com/fercascue/release-please/compare/v3.1.0...v3.2.0) (2023-10-13)
 
 
