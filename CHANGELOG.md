@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/fercascue/release-please/compare/v3.0.0...v3.1.0) (2023-10-13)
+
+
+### Features
+
+* rename ([4bead3c](https://github.com/fercascue/release-please/commit/4bead3c133848c68c16cbbfe2f3969b8d475376c))
+
 ## [3.0.0](https://github.com/fercascue/release-please/compare/v2.0.0...v3.0.0) (2023-10-13)
 
 
