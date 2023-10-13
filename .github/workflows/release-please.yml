@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - run: echo ${{github.event}}  
       - name: Check out code
         uses: actions/checkout@v2
 
@@ -20,4 +21,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
-           
+
+      - name: Release with release-please
+        uses: google-github-actions/release-please-action@v3.7.12
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          release-type: node
+          default-branch: develop  
+  
