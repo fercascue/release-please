@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.2.0](https://github.com/fercascue/release-please/compare/v3.1.0...v3.2.0) (2023-10-13)
+
+
+### Features
+
+* delete ([01796eb](https://github.com/fercascue/release-please/commit/01796eb56f9794207e25986b5439b305c1ddbf27))
+* sample ([a635d61](https://github.com/fercascue/release-please/commit/a635d615346d03e26c8624f5937fc60bee8b6a69))
+* sample ([ec7c586](https://github.com/fercascue/release-please/commit/ec7c5862b347626c9cd7e6f3b15f1a232afe8571))
+
 ## [3.1.0](https://github.com/fercascue/release-please/compare/v3.0.0...v3.1.0) (2023-10-13)
 
 
