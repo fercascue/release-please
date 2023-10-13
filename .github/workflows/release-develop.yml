@@ -21,14 +21,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
-          package-name: sample-portal
-          pull-request-header: ':robot: Release reated'
-
-      - name: Release with release-please
-        uses: google-github-actions/release-please-action@v3.7.12
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          release-type: node
           default-branch: develop
           package-name: sample-portal
           pull-request-header: ':robot: Release reated'
