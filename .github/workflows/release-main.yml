@@ -38,3 +38,4 @@ jobs:
            indicators: true
            output: both
            thresholds: '60 80'        
+      - run: ls -la
