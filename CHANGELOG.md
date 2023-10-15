@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.4.0](https://github.com/fercascue/release-please/compare/v3.3.0...v3.4.0) (2023-10-15)
+
+
+### Features
+
+* clover ([cc2d76a](https://github.com/fercascue/release-please/commit/cc2d76a262c7cef8833ed3a45a0abf3a0edd9df0))
+* sample ([b3ea6a9](https://github.com/fercascue/release-please/commit/b3ea6a9565f01ffb140aea773417e77b03eb7b20))
+* stest ([a8ce5e8](https://github.com/fercascue/release-please/commit/a8ce5e825b76bd67af5df613a8f14db2c2ddddb3))
+* stest ([90dbd3b](https://github.com/fercascue/release-please/commit/90dbd3bdc0caa966f6162311e1d917048669cfb5))
+* stst ([1cf7298](https://github.com/fercascue/release-please/commit/1cf7298504ae066a265ece559cafb68266a7073d))
+* ststs ([edad524](https://github.com/fercascue/release-please/commit/edad524b770df8aa5b1cf6a809cc482cc386f9df))
+* test ([134adfd](https://github.com/fercascue/release-please/commit/134adfdac5d435561ad7f0f465c798a63f5d1e7a))
+* test ([b9b900a](https://github.com/fercascue/release-please/commit/b9b900aef8dcc9dcd70827af8618ff26e7e6bdee))
+* test ([93dbf28](https://github.com/fercascue/release-please/commit/93dbf28e46dc919babf1a1d13f9ddc2c9626b21b))
+* test ([4f4cf28](https://github.com/fercascue/release-please/commit/4f4cf28b3f99677ef033deb8ceabfcd62a70523d))
+
+
+### Bug Fixes
+
+* coverage ([c99b5a1](https://github.com/fercascue/release-please/commit/c99b5a17136016d7116ed935c6f97b17048c9dd6))
+* test ([ebadc6e](https://github.com/fercascue/release-please/commit/ebadc6ee196e9bc2654d56f20aa9a6731cb98d81))
+
 ## [3.3.0](https://github.com/fercascue/release-please/compare/v3.2.1...v3.3.0) (2023-10-14)
 
 
