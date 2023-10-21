@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
-const sample="FOO";
+const a = 0;
+a = 1;
 
 function App() {
   return (
