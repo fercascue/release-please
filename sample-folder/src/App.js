@@ -1,12 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './logo.svg'
+import './App.css'
 
-const a = 0;
-a = 1;
+const a = 0
+a = 1
 
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
