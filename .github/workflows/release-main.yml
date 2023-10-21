@@ -22,6 +22,9 @@ jobs:
     # Load all steps #
     ##################
     steps:
+      - name: Extract branch name
+        run: echo $GITHUB_REF
+ 
       ##########################
       # Checkout the code base #
       ##########################
@@ -39,6 +42,6 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           VALIDATE_JAVASCRIPT_ES: true	
-          DEFAULT_BRANCH: 'feature/*'
+          DEFAULT_BRANCH:  $GITHUB_REF
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
